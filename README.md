@@ -4,4 +4,4 @@ Physical computing refers to the design and construction of physical systems tha
 
 ## Entanglement
 
-Entanglment is a final project for Intro to Physical Computing Fall 2016 by Ariana Daly and Daniel Morris. Project Documentation and other information can be seen [here](https://www.arianadaly.com/prototype-design-blog/2016/12/22/entanglement).
+Entanglment, a compass pair that always points to each other, is a final project for Intro to Physical Computing Fall 2016 by Ariana Daly and Daniel Morris. Project Documentation and other information can be seen [here](https://www.arianadaly.com/prototype-design-blog/2016/12/22/entanglement).
