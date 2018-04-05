@@ -1,2 +1,1 @@
-# 60-223
-Intro to Physical COmputing
+# 60-223 Intro to Physical Computing
